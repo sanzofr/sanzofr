@@ -1,5 +1,5 @@
-# 💫 About Me:
-Frontend Enthusiasts, Python Intermediate 
+# About Me:
+Frontend Engineer, Product Designer.
 
 
 ## 🌐 Socials:
