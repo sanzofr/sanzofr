@@ -11,16 +11,6 @@ Design: Figma • Blender
 
 Workflow: Vercel • GitHub
 
-# ✨ What I Like Making
-
-Minimal, identity-driven web experiences
-
-UI systems & reusable components
-
-Motion that actually feels purposeful
-
-Fast, polished interfaces with personality
-
 # 🔗 Connect
 
 Portfolio: https://sanzo.tech/
