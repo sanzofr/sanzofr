@@ -7,7 +7,7 @@ Building clean UI, smooth interactions, and intentional digital experiences.
 ## Tech Stack
 Frontend: HTML5 • CSS3 • Vanilla Js • Tailwind • GSAP • lennis
 
-Design: Figma • Blender
+Design: Figma • Framer
 
 Workflow: Vercel • GitHub
 
@@ -16,8 +16,3 @@ Workflow: Vercel • GitHub
 Portfolio: https://sanzo.tech/
 
 Instagram: @sanzofr
-
-
-
-I Move Stuffs, 
-And Pray it Looks Fine.
