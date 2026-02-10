@@ -5,7 +5,7 @@ Building clean UI, smooth interactions, and intentional digital experiences.
 
 
 ## Tech Stack
-Frontend: HTML5 • CSS3 • Vanilla Js • Tailwind • GSAP • lennis
+HTML5 • CSS3 • Vanilla Js • Tailwind • GSAP • lennis • C • C++
 
 Design: Figma • Framer
 
