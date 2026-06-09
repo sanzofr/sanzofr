@@ -1,18 +1,4 @@
-# Sanzofr
-Frontend Engineer × Product Designer
-Building clean UI, smooth interactions, and intentional digital experiences.
+<a href="https://github.com/sanzofr">
+  <img src="./assets/banner.png" width="100%" alt="banner">
+</a>
 
-
-
-## Tech Stack
-HTML5 • CSS3 • Vanilla Js • Tailwind • GSAP • lennis • C • C++
-
-Design: Figma • Framer
-
-Workflow: Vercel • GitHub
-
-# 🔗 Connect
-
-Portfolio: https://sanzo.tech/
-
-Instagram: @sanzofr
